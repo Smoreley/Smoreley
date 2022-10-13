@@ -1,0 +1,13 @@
+[
+    { "keys": ["ctrl+alt+o"], "command": "prompt_open_folder" },
+    { "keys": ["ctrl+alt+c"], "command": "copy_path" },
+    { "keys": ["ctrl+alt+e"], "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"} },
+    { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace"},
+    { "keys": ["ctrl+alt+0"], "command": "reset_font_size" },
+    { "keys": ["ctrl+alt+x"], "command": "unexpand_tabs", "args": { "set_translate_tabs": false } },
+    { "keys": ["ctrl+alt+z"], "command": "expand_tabs", "args": { "set_translate_tabs": true } },
+    { "keys": ["ctrl+alt+f"], "command": "reindent", "args": {"single_line": false}},
+    { "keys": ["ctrl+alt+`"], "command": "toggle_terminus_panel" },
+    { "keys": ["ctrl+b"], "command": "toggle_side_bar" },
+    { "keys": ["f12"], "command": "goto_definition" },
+]

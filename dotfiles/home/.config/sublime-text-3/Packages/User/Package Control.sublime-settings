@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Color Highlight",
+		"CSS3",
+		"Dockerfile Syntax Highlighting",
+		"FileIcons",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"LSP",
+		"LSP-file-watcher-chokidar",
+		"LSP-rust-analyzer",
+		"LSP-typescript",
+		"Nord",
+		"Package Control",
+		"RustFmt",
+		"Sass",
+		"Sublimerge 3",
+		"Theme - Monokai Pro",
+		"TOML",
+	],
+}

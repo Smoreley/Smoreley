@@ -1,0 +1,33 @@
+{
+	"theme": "Adaptive.sublime-theme",
+	"color_scheme": "Mariana.sublime-color-scheme",
+	"trim_trailing_white_space_on_save": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"always_show_minimap_viewport": true,
+	"translate_tabs_to_spaces": true,
+	"highlight_modified_tabs": true,
+	"preview_on_click": "only_left",
+	"detect_indentation": false,
+	"draw_white_space": ["all"],
+	"auto_complete_delay": 100,
+	"scroll_past_end": false,
+	"highlight_line": true,
+	"show_encoding": true,
+	"show_full_path": false,
+	"show_rel_path": true,
+	"spell_check": true,
+	"word_wrap": true,
+	"wrap_width": 100,
+	"draw_centered": true,
+    "relative_line_numbers": true,
+	"rulers":
+	[
+		100
+	],
+	"dark_color_scheme": "Packages/User/Sublimerge.tmTheme",
+	"light_color_scheme": "Packages/TypeScript/TypeScript.tmTheme",
+	"ignored_packages":
+	[
+		// "Vintage",
+	],
+}
